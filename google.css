@@ -1,0 +1,25 @@
+.centrage {text-align: center;margin-top: 100px;}
+img {max-width: 20%;}
+
+
+footer {text-align: left; color:grey;background-color: #F2F2F2;}
+*{margin: 0; padding: 0;}
+body,html{height: 100%;}
+body{text-align: right;}
+ul{padding: 10px; margin: 7px; list-style: none;}
+li{margin-left: 1px; float: left; width: auto; padding: 10px;}
+
+ul li a {text-align: center; color: black; font-size: 14px
+	flex; justify-content: center; align-items: center;}
+
+html{height: 100%}
+body{min-height: 100%; margin: 0; padding: 0;}
+body{flex; justify-content: space-around; align-items: flex-end;}
+footer{position: absolute; bottom: 0; left: 0; right: 0;}
+
+a.bouton1{display: block; border-radius: 3px; padding: 7px 25px; background: #1a73e8; color: white;}
+a.capture1{flex; justify-content: center; align-items: center;}
+a.bouton1:hover{background:#1a73e6;}
+
+a.bouton2{padding: 10px 25px; border-radius: 6px; background: #F2F2F2; color: black;}
+a.bouton2hover{background:#F2F2F1;}
